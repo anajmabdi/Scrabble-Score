@@ -1,0 +1,12 @@
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/bin/Debug/net6.0/Scrabble.deps.json
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/bin/Debug/net6.0/Scrabble.dll
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/bin/Debug/net6.0/Scrabble.pdb
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/Scrabble.csproj.AssemblyReference.cache
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/Scrabble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/Scrabble.AssemblyInfoInputs.cache
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/Scrabble.AssemblyInfo.cs
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/Scrabble.csproj.CoreCompileInputs.cache
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/Scrabble.dll
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/refint/Scrabble.dll
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/Scrabble.pdb
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/ref/Scrabble.dll
