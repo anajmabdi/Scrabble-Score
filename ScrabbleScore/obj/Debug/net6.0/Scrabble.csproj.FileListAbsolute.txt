@@ -10,3 +10,6 @@
 /Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/refint/Scrabble.dll
 /Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/Scrabble.pdb
 /Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/ref/Scrabble.dll
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/bin/Debug/net6.0/Scrabble
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/bin/Debug/net6.0/Scrabble.runtimeconfig.json
+/Users/najmabdi/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net6.0/Scrabble.genruntimeconfig.cache

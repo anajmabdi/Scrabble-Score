@@ -19,7 +19,7 @@ namespace ScrabbleScore.Tests
     {
       string otherWord = "bike";
       Word newWord = new Word(otherWord);
-      string otherOtherWord = newWord.UserWord;
+      char[] otherOtherWord = newWord.UserWord;
       Assert.AreEqual(otherWord, otherOtherWord);
     }
     
